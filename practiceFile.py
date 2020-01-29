@@ -9,4 +9,10 @@ print('Its a pleasure to meet you, ' + myName)
 print('The length of my name is:')
 print(len(myName))
 
+#Ask for Age
+print('What is your age?')
+myAge = input()
+print('So you are ' + myAge + 'years old.')
+print('I am 20 years old.')
+
  
